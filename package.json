@@ -1,0 +1,21 @@
+{
+  "name": "@uua/icons",
+  "version": "0.0.1",
+  "description": "UUA Icons",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willin/uua-icons.git"
+  },
+  "keywords": [
+    "uua",
+    "useragent",
+    "icons"
+  ],
+  "author": "Willin Wang",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/willin/uua-icons/issues"
+  },
+  "homepage": "https://github.com/willin/uua-icons#readme"
+}
